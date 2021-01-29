@@ -4,8 +4,8 @@
 name: Java CI
 
 on:
-  push:
-    branches: [ master , product ]
+  [push]
+
 
 jobs:
   build:
